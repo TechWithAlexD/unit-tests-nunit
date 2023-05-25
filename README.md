@@ -26,4 +26,4 @@ dotnet test "<path>\SourceProject\UnitTests\bin\Debug\UnitTests.dll" --filter Te
 ```
 
 # Install Visual Studio, Create a NUnit tests project with Visual Studio, Run unit tests from command line
-**Playlist "C# NUnit Test": https://www.youtube.com/@automation100/playlists**
+**Playlist "C# NUnit Test": https://www.youtube.com/@TechWithAlexD/playlists**
