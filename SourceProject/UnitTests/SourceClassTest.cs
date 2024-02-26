@@ -1,10 +1,5 @@
 ﻿using NUnit.Framework;
 using SourceProject;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace UnitTests
 {
@@ -24,7 +19,7 @@ namespace UnitTests
         {
             var result = _sourceClass.IsPositiveNumber(1);
 
-            Assert.IsTrue(result);
+            Assert.That(result, Is.EqualTo(true));
         }
     }
 }
