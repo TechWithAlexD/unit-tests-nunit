@@ -12,9 +12,9 @@
 3. Open the solution in Visual Studio or solution folder in VS Code or your preferred IDE. 
 4. Download [nuget.exe](https://www.nuget.org/downloads).
 5. Open Command Prompt and navigate to the directory containing .NET Framework project's solution file (.sln).
-6. Restore NuGet Packages:
+6. Restore NuGet Packages, change "path":
     ```PS
-    <path>\nuget.exe restore .\<SourceProject.sln>
+    path\nuget.exe restore .\SourceProject.sln
     ```
 6. Build projects:
     ```PS
