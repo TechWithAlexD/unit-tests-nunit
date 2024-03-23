@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SourceProject
+namespace TechWithAlex.SourceProject
 {
     public class SourceClass
     {

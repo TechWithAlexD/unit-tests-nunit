@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
-using SourceProject;
+using TechWithAlex.SourceProject;
 
-namespace UnitTests
+namespace TechWithAlex.NUnit3Tests
 {
     public class SourceClassTest
     {
@@ -19,7 +19,7 @@ namespace UnitTests
         {
             var result = _sourceClass.IsPositiveNumber(1);
 
-            Assert.That(result, Is.EqualTo(true));
+            Assert.IsTrue(result);
         }
     }
 }

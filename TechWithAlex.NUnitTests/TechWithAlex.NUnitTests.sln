@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceProject", "SourceProject\SourceProject.csproj", "{A8E4F2BE-E4E8-44A9-856F-10FC35238968}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechWithAlex.SourceProject", "TechWithAlex.SourceProject\TechWithAlex.SourceProject.csproj", "{A8E4F2BE-E4E8-44A9-856F-10FC35238968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{265128CA-11B6-423A-BAE3-7170BF2FA745}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechWithAlex.NUnit3Tests", "TechWithAlex.NUnit3Tests\TechWithAlex.NUnit3Tests.csproj", "{265128CA-11B6-423A-BAE3-7170BF2FA745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
