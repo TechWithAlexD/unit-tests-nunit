@@ -1,7 +1,8 @@
 # TechWithAlex.NUnitTests
 .NET framework console application projects sample
-    - TechWithAlex.SourceProject - Sample source project to be unit tested
-    - TechWithAlex.NUnit3Tests - Sample NUnits tests project
+- TechWithAlex.SourceProject - Sample source project to be unit tested
+- TechWithAlex.NUnit3Tests - Sample NUnit 3 tests project
+- TechWithAlex.NUnit4Tests - Sample NUnit 4 tests project
 
 ## Installation
 1. Make sure you have [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download) or newer installed on your machine (projects were developed using .NET 8). Check installation
@@ -17,6 +18,7 @@
     ```PS
     dotnet build
     ```
+    
 In most cases, you don't need to explicitly use the dotnet restore command, since if a NuGet restore is necessary, the following commands run it implicitly:
 
     dotnet new
