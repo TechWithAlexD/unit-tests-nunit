@@ -68,8 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TechWithAlex.SourceProject\TechWithAlex.SourceProject.csproj">
-      <Project>{A8E4F2BE-E4E8-44A9-856F-10FC35238968}</Project>
-      <Name>SourceProject</Name>
+      <Project>{672f7369-24ac-44e4-8f1e-7c4c74f4aaad}</Project>
+      <Name>TechWithAlex.SourceProject</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
